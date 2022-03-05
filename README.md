@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Sebastian-Kendra
 - 👀 I'm interested in create websites or web applications.
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript, Typescript
 - 💞️ I'm looking to collaborate on websites or web applications.
-- 📫 How to reach me ...
